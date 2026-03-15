@@ -88,19 +88,19 @@ Load test
    
 **Tabulation for Open Circuit Test:** 
 
-
+![alt text](<WhatsApp Image 2026-03-15 at 12.32.11.jpeg>)
 
 
 
 **Tabulation for Load Test:**  
 
-
+![alt text](<WhatsApp Image 2026-03-15 at 12.32.11 (1).jpeg>)
 
 
 
 **Model graph: Open Circuit graph:** 
 
-
+![alt text](<WhatsApp Image 2026-03-15 at 12.32.39.jpeg>)
 
 
 
@@ -109,12 +109,14 @@ Load test
 **Load graph:** 
 
 
+![alt text](<WhatsApp Image 2026-03-15 at 12.32.39 (1).jpeg>)
+
 
 
 
 **Calculation: Open circuit characteristics** 
 
-
+![alt text](<EXP 2.png>)
 
 
 
@@ -122,7 +124,7 @@ Load test
 
 **Load Characteristics:**
 
-
+![alt text](<EXP 2 b.png>)
 
 
 
